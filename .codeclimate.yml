@@ -9,3 +9,7 @@ engines:
 ratings:
   paths:
   - "**.php"
+
+exclude_paths:
+- "**.min.js"
+- "includes/class-freemius-abstract.php"
