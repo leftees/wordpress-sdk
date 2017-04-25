@@ -3,6 +3,8 @@ engines:
     enabled: true
     config:
       standard: "WordPress"
+  phpmd:
+    enabled: true
 
 ratings:
   paths:
